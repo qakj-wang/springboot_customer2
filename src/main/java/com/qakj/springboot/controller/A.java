@@ -5,9 +5,7 @@ public class A {
 		System.out.println("hello");
 	}
 	
-	public void test1(){
-		
-	}
+	
 	
 }
 
